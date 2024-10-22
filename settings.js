@@ -11,13 +11,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
+global.ownernomer = "50941418881"
+global.ownername = "ANONYMOUS_TEAM"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237698581946'  //creator number
+global.ownernumber = '50941418881'  //creator number
 global.ownername = '🐉Limule Solitarus' //owner name
 global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
 
